@@ -10,6 +10,7 @@ public class Ex01 {
 		System.out.println("팀장 4 다섯번째 커밋");
 		System.out.println("팀원 1 여섯번째 커밋");
 		System.out.println("팀원 3 일곱번째 커밋");
+		System.out.println("팀원 2 여덟번째 커밋");
 	}
 
 }
